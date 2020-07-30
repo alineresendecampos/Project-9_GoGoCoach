@@ -3,7 +3,6 @@
 > Status: <br>
 > - Project specifications: Concluded :heavy_check_mark: <br>
 > - Code: In development :construction:
-<br>
 
 ### Topics
 - [Project description](#project-description-cartwheeling-lotus_position-runner-bicyclist-weight_lifting)
@@ -13,14 +12,15 @@
 
 <br>
 <p align="center">
-<img width="696" src="https://raw.githubusercontent.com/alineresendecampos/Project-9_GoGoCoach/022c1d8eea9c2c1e63d560c8331433cf5023ee21/public/image/Landing%20page.png">
-
+<a href="https://gogocoach.invisionapp.com/public/share/XW1CGG2PPY#screens/479729681"><img width="696" src="https://raw.githubusercontent.com/alineresendecampos/Project-9_GoGoCoach/022c1d8eea9c2c1e63d560c8331433cf5023ee21/public/image/Landing%20page.png"></a>
 
 ## Project description :cartwheeling: :lotus_position: :runner: :bicyclist: :weight_lifting:
 
 Task: Developing a web application to put sports coaches in touch with people interested in group workouts or private coaching lessons.
 
-This project was developed for the course Full Stack JavaScript Web Development - INCO Academy.
+This project was developed for the apprenticeship Full Stack JavaScript Web Development - INCO Academy.
+
+[InVision Prototype](https://gogocoach.invisionapp.com/public/share/XW1CGG2PPY#screens/479729681)
 
  ## Functionalities
  
